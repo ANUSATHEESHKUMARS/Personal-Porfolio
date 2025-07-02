@@ -18,7 +18,7 @@ export default function Footer() {
           
           <div className="flex space-x-6">
             <a
-              href="https://github.com/nidhinnidhin"
+              href="https://github.com/ANUSATHEESHKUMARS"
               target="_blank"
               rel="noopener noreferrer"
               className="text-secondary hover:text-primary transition-colors"
@@ -26,7 +26,7 @@ export default function Footer() {
               <FaGithub className="h-6 w-6" />
             </a>
             <a
-              href="https://vercel.com/nidhinbabu171gmailcoms-projects"
+              href="https://vercel.com/anu-satheeshkumar-ss-projects"
               target="_blank"
               rel="noopener noreferrer"
               className="text-2xl text-gray-600 hover:text-primary dark:text-gray-300 dark:hover:text-primary transition-colors"
@@ -34,7 +34,7 @@ export default function Footer() {
               <IoLogoVercel />
             </a>
             <a
-              href="https://www.linkedin.com/in/nidhin-b-509135231/"
+              href="https://www.linkedin.com/in/anu-satheeshkumar-s-4a4556327/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-secondary hover:text-primary transition-colors"
