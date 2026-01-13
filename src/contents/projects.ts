@@ -19,14 +19,14 @@ export const projects: Project[] = [
         demoLink: 'https://listenheadphones.shop/',
         image: '/projects/headp.avif',
       },
-      // {
-      //   title: 'Portfolio Website',
-      //   description: 'My personal portfolio website showcasing my projects and skills.',
-      //   technologies: ['Next.js', 'Tailwind CSS', 'Framer Motion'],
-      //   githubLink: 'https://github.com',
-      //   demoLink: 'https://demo.com',
-      //   image: '/projects/portfolio-website.jpg',
-      // },
+      {
+        title: 'Netflix Clone',
+        description: 'A responsive Netflix-style web app built with React that displays dynamic movie content in a modern streaming UI',
+        technologies: ['React.js', 'Tailwind CSS', 'Firebase'],
+        githubLink: 'https://github.com/ANUSATHEESHKUMARS/Netflix--clone',
+        demoLink: 'https://netflix-clone-weld-pi.vercel.app/',
+        image: '/projects/netflix.jpg',
+      },
       // {
       //   title: 'Blog Platform',
       //   description: 'A blogging platform with user authentication and markdown support.',
